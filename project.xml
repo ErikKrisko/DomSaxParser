@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Slams>
+	<Slam name="Australia" year="2008">
+		<winner>Djokovic</winner>
+		<runnerUp>Tsonga</runnerUp>
+		<score>6-26-46-3</score>
+		<surface>Rebound Ace</surface>
+		<semiFinalist>Nadal</semiFinalist>
+		<semiFinalist>Federer</semiFinalist>
+	</Slam>
+	<Slam name="French Open" year="2008">
+		<winner>Nadal</winner>
+		<runnerUp>Federer</runnerUp>
+		<score>6-26-16-0</score>
+		<surface>Clay</surface>
+		<semiFinalist>Djokovic</semiFinalist>
+		<semiFinalist>Monfils</semiFinalist>
+	</Slam>
+	<Slam name="Wimbledon" year="2008">
+		<winner>Nadal</winner>
+		<runnerUp>Federer</runnerUp>
+		<score>6-26-36-76-79-7</score>
+		<surface>Grass</surface>
+		<semiFinalist>Safin</semiFinalist>
+		<semiFinalist>Schuettler</semiFinalist>
+	</Slam>
+	<Slam name="US Open" year="2008">
+		<winner>Federer</winner>
+		<runnerUp>Murray</runnerUp>
+		<score>6-37-56-3</score>
+		<surface>Hard Court</surface>
+		<semiFinalist>Nadal</semiFinalist>
+		<semiFinalist>Djokovic</semiFinalist>
+	</Slam>
+</Slams>
+
